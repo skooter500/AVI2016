@@ -1,0 +1,75 @@
+<graphml xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml.html/1.0/ygraphml.xsd" xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:y="http://www.yworks.com/xml/yfiles-common/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:yjs="http://www.yworks.com/xml/yfiles-for-html/1.0/xaml">
+<graph id="G" edgedefault="directed">
+<node id="node_1" x="44.53" y="53.76" z="70.83" group="1" name="CryptoLocker" status="Okay" type="PseudoNode" />
+<node id="node_2" x="58.03" y="61.95" z="46.03" group="1" name="ILoveYou" status="Okay" type="PseudoNode" />
+<node id="node_3" x="50.59" y="65.08" z="69.44" group="1" name="Melissa" status="Okay" type="PseudoNode" />
+<node id="node_4" x="51.37" y="53.48" z="58.97" group="1" name="CodeRed" status="Okay" type="PseudoNode" />
+<node id="node_5" x="50.27" y="65.77" z="57.88" group="1" name="Zeus" status="Okay" type="Router" />
+<node id="node_6" x="65.24" y="55.3" z="55.02" group="1" name="Conficker" status="Okay" type="Router" />
+<node id="node_7" x="62.24" y="62.31" z="59.9" group="1" name="MyDoom" status="Okay" type="Router" />
+<node id="node_8" x="20.48" y="27.43" z="44.82" group="1" name="Win32/FakeSysdef" status="Okay" type="Router" />
+<node id="node_9" x="40.49" y="13.91" z="58.1" group="1" name="Agent.btz" status="Okay" type="Router" />
+<node id="node_10" x="48.82" y="9.25" z="65.45" group="1" name="Morris" status="Okay" type="Router" />
+<node id="node_11" x="58.04" y="04.21" z="81.51" group="1" name="Sasser" status="Okay" type="Router" />
+<node id="node_12" x="50.59" y="57.22" z="32.74" group="1" name="Blaster" status="Okay" type="PseudoNode" />
+<node id="node_13" x="25.92" y="43.26" z="52.29" group="1" name="CIH" status="Okay" type="Router" />
+<node id="node_14" x="50.78" y="80.46" z="53.27" group="1" name="Jerusalem" status="Okay" type="Router" />
+<node id="node_15" x="66.72" y="74.45" z="83.44" group="1" name="Solar Sunrise" status="Okay" type="PseudoNode" />
+<node id="node_16" x="66.7" y="66.44" z="79.1" group="1" name="Brain" status="Okay" type="Router" />
+<node id="node_17" x="20.86" y="15.76" z="71.82" group="1" name="Explorer.zip" status="Okay" type="Router" />
+<node id="node_18" x="55.63" y="52.11" z="67.42" group="1" name="Autorun" status="Okay" type="Router" />
+<node id="node_19" x="43.53" y="20.98" z="76.11" group="1" name="Fizzer" status="Okay" type="Router" />
+<node id="node_20" x="67.77" y="19.85" z="39.4" group="1" name="Sircam" status="Okay" type="Router" />
+<node id="node_21" x="59.44" y="36.02" z="21.57" group="1" name="Sobig" status="Okay" type="Router" />
+<node id="node_22" x="27.62" y="15.2" z="41.69" group="1" name="Magistr" status="Okay" type="Router" />
+<node id="node_23" x="51.35" y="10.26" z="54.64" group="1" name="Storm" status="Okay" type="Router" />
+<node id="node_24" x="25.54" y="35.6" z="21.09" group="1" name="Poisonlvy" status="Okay" type="PseudoNode" />
+<node id="node_25" x="53.73" y="20.88" z="80.09" group="1" name="Metropolitan Police Virus" status="Okay" type="PseudoNode" />
+<node id="node_26" x="53.33" y="11.91" z="66.22" group="1" name="Nimda" status="Okay" type="PseudoNode" />
+<node id="node_27" x="57.97" y="72.45" z="64.15" group="1" name="Sql Slammer" status="Okay" type="Router" />
+<node id="node_28" x="27.85" y="26.69" z="24.6" group="1" name="Alureon" status="Okay" type="Router" />
+<node id="node_29" x="26.06" y="11.82" z="31.77" group="1" name="Stuxnet" status="Okay" type="PseudoNode" />
+<node id="node_30" x="31.02" y="61.38" z="27.48" group="1" name="Klez" status="Okay" type="Router" />
+<edge id="link_0" source="node_25" target="node_1" color="" label="1000" status="Up" type="Half" />
+<edge id="link_2" source="node_27" target="node_1" color="" label="1000" status="Up" type="Half" />
+<edge id="link_4" source="node_1" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_6" source="node_2" target="node_30" color="" label="1000" status="Up" type="Half" />
+<edge id="link_8" source="node_3" target="node_30" color="" label="1000" status="Up" type="Half" />
+<edge id="link_10" source="node_7" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_12" source="node_3" target="node_19" color="" label="1000" status="Up" type="Half" />
+<edge id="link_14" source="node_3" target="node_5" color="" label="1000" status="Up" type="Half" />
+<edge id="link_16" source="node_4" target="node_30" color="" label="1000" status="Up" type="Half" />
+<edge id="link_18" source="node_4" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_20" source="node_5" target="node_16" color="" label="1000" status="Up" type="Half" />
+<edge id="link_22" source="node_5" target="node_10" color="" label="1000" status="Up" type="Half" />
+<edge id="link_24" source="node_5" target="node_12" color="" label="1000" status="Up" type="Half" />
+<edge id="link_26" source="node_6" target="node_24" color="" label="1000" status="Up" type="Half" />
+<edge id="link_28" source="node_6" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_30" source="node_6" target="node_9" color="" label="1000" status="Up" type="Half" />
+<edge id="link_32" source="node_6" target="node_26" color="" label="1000" status="Up" type="Half" />
+<edge id="link_34" source="node_6" target="node_21" color="" label="1000" status="Up" type="Half" />
+<edge id="link_36" source="node_6" target="node_25" color="" label="1000" status="Up" type="Half" />
+<edge id="link_38" source="node_7" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_40" source="node_8" target="node_21" color="" label="1000" status="Up" type="Half" />
+<edge id="link_42" source="node_8" target="node_18" color="" label="1000" status="Up" type="Half" />
+<edge id="link_44" source="node_10" target="node_21" color="" label="1000" status="Up" type="Half" />
+<edge id="link_46" source="node_11" target="node_26" color="" label="1000" status="Up" type="Half" />
+<edge id="link_48" source="node_12" target="node_11" color="" label="1000" status="Up" type="Half" />
+<edge id="link_50" source="node_13" target="node_18" color="" label="1000" status="Up" type="Half" />
+<edge id="link_52" source="node_14" target="node_21" color="" label="1000" status="Up" type="Half" />
+<edge id="link_54" source="node_15" target="node_19" color="" label="1000" status="Up" type="Half" />
+<edge id="link_56" source="node_15" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_58" source="node_16" target="node_25" color="" label="1000" status="Up" type="Half" />
+<edge id="link_60" source="node_16" target="node_28" color="" label="1000" status="Up" type="Half" />
+<edge id="link_62" source="node_17" target="node_29" color="" label="1000" status="Up" type="Half" />
+<edge id="link_64" source="node_17" target="node_28" color="" label="1000" status="Up" type="Half" />
+<edge id="link_66" source="node_18" target="node_22" color="" label="1000" status="Up" type="Half" />
+<edge id="link_68" source="node_19" target="node_21" color="" label="1000" status="Up" type="Half" />
+<edge id="link_70" source="node_20" target="node_22" color="red" label="1000" status="Down" type="Half" />
+<edge id="link_72" source="node_21" target="node_27" color="" label="1000" status="Up" type="Half" />
+<edge id="link_74" source="node_21" target="node_11" color="" label="1000" status="Up" type="Half" />
+<edge id="link_76" source="node_21" target="node_13" color="" label="1000" status="Up" type="Half" />
+<edge id="link_78" source="node_21" target="node_27" color="" label="1000" status="Up" type="Half" />
+<edge id="link_80" source="node_21" target="node_14" color="" label="1000" status="Up" type="Half" />
+</graph>
+</graphml>
